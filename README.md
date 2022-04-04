@@ -3,7 +3,8 @@
     
 <a href="https://www.linkedin.com/in/el-bourissi-hamza-b2443b168"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     
-    <a href="https://www.instagram.com/elbourissihamza"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/elbourissihamza"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>
+    </a>
   </p>
   
 
